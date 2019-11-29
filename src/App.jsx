@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-// import './App.css';
 import TopSection from './components/top/'
 import BottomSection from './components/bottom/'
 import "./sass/app.scss";
