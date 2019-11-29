@@ -1,10 +1,6 @@
 import React from 'react'
 
 export default class Forecastday extends React.Component {
-    constructor(props){
-        super(props)
-    }
-
     render(){
         const {day} = this.props;
 
